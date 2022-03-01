@@ -52,8 +52,7 @@ const defaultMenu = {
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+*%NdaaBotz*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -166,7 +165,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://youtube.com/channel/UC7oYWqywu69EbM-1UfiiBYQ'
+               url: 'Tautan Ini Membawa Hati Anda Ke Hati Saya.:v'
              }
 
            },
