@@ -52,7 +52,7 @@ const defaultMenu = {
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%NdaaBotz*
+*%Fito Botz*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
